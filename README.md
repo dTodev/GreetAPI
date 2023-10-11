@@ -10,6 +10,8 @@ All functionalities as per the task are working, althought I do not like the way
 
 I have used simple styling through bootstrap to avoid spending too much time on aesthetics as the pure focus of the task is the logical part and data manipulation.
 
+To run the project just clone the repo, and run -> npm install followed by npm run dev.
+
 I am open for any improvements feedback!
 
 ## Recommended IDE Setup
